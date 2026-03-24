@@ -1,6 +1,6 @@
-Gtopo
+Glain
 =====
-ImGicc Global Token Pool for AI/ML
+ImGicc Global Language Index
 
 Files
 =====
@@ -14,7 +14,7 @@ are: English Dictionary, Italian Dictionary, Vietnamese Dictionary.
 
 More Tokens
 ===========
-Please go [Issues](https://github.com/imgicc/gtopo/issues) tab to submit text files 
+Please go [Issues](https://github.com/imgicc/glain/issues) tab to submit text files 
 to have the tokens added.
 
 Licence
