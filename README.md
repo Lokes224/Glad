@@ -1,4 +1,4 @@
-Glain
+Glad
 =====
 ImGicc Global Language Data, common data of multiple languages for AI/ML.
 
